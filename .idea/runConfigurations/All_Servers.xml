@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All Servers" type="CompoundRunConfigurationType">
+    <toRun name="Backend" type="ShellScriptRunConfigurationType" />
+    <toRun name="Frontend" type="ShellScriptRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
